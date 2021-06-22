@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+*
+{
+    font-family: 'Montserrat';
+}
+
+div#Enzo div{
+    display: flex;
+    display: inline-block;
+}
+
+div#Enzo div.gauche{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div#Enzo div.droite{
+    align-items: center;
+}
+
+header
+{
+    display:flex;
+    align-items: center;
+}
+header img 
+{
+    width: 150px;
+}
+section.
+
+.gros-titre
+{
+    font-size: 40px;
+}
+
+
+body 
+{
+    margin: 0 auto;
+}
+
+
+/* menu de navigation */
+
+nav.nav
+{
+    display:flex;
+    list-style: none;
+    width:1000px;
+    justify-content: space-between;
+    margin-left: 40px;
+    font-size: 25px;
+}
